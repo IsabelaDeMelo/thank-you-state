@@ -22,16 +22,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.divIcone {
-    background-color:  hsla(216, 12%, 54%, 0.267);
-    border-radius: 3.1rem;
-    width: 3vw;
-    height: 6vh;
-    display: flex;
-    justify-content: center;  
-    align-items: center; 
+    font-size: 1rem;
 }
 
 section {
